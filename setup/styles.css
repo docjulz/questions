@@ -223,7 +223,7 @@ Questions
   transition: var(--transition);
 }
 .question-btn:hover {
-  transform: rotate(45deg);
+  transform: rotate(90deg);
 }
 .question-text {
   padding: 1rem 0 1.5rem 0;
