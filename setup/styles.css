@@ -223,7 +223,7 @@ Questions
   transition: var(--transition);
 }
 .question-btn:hover {
-  transform: rotate(90deg);
+  transform: rotate(45deg);
 }
 .question-text {
   padding: 1rem 0 1.5rem 0;
@@ -233,7 +233,7 @@ Questions
   margin-bottom: 0;
 }
 /* hide text */
-/* .question-text {
+ .question-text {
   display: none;
 }
 .show-text .question-text {
@@ -247,4 +247,4 @@ Questions
 }
 .show-text .plus-icon {
   display: none;
-} */
+}
