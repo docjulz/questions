@@ -1,2 +1,4 @@
 # Accordian List
-this is an example of an accordian list.  Allows for one item to be open at a time.
+this is an example of an accordian list.  
+
+All items may be open at same time
